@@ -1,0 +1,3 @@
+# REST
+
+Diiferent viewsets and base knowledge of django rest framework...
